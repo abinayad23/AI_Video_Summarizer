@@ -135,6 +135,52 @@ ENV/
 env.bak/
 venv.bak/
 
+# Temporary audio files
+temp_audio.*
+temp_video.*
+*.wav
+*.mp3
+*.m4a
+*.mp4
+
+# Extra documentation files (local notes only)
+CHANGES_MADE.md
+COMPLETE_GUIDE.md
+FEATURE_FLOW.md
+FINAL_STATUS.md
+FIXES_APPLIED.md
+FIXES_SUMMARY.md
+HOW_IT_WORKS_NOW.md
+IMPLEMENTATION_SUMMARY.md
+IMPROVED_FRAME_EXTRACTION.md
+MULTIMODAL_ALL_MODELS.md
+MULTIMODAL_ALL_MODELS_SUMMARY.md
+MULTIMODAL_FEATURE.md
+MULTIMODAL_IMPLEMENTATION_SUMMARY.md
+MULTIMODAL_QA_FEATURE.md
+MULTIMODAL_QUICKSTART.md
+NEW_FEATURES.md
+PROJECT_DOCUMENTATION.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+QUICK_REFERENCE.md
+QUICK_START.md
+RUN_APP.md
+SETUP_GUIDE.md
+SETUP_INSTRUCTIONS.md
+SPEED_OPTIMIZATIONS.md
+USAGE_EXAMPLES.md
+USAGE_GUIDE_NEW_FEATURES.md
+VIVA_TECHNICAL_DOCUMENTATION.md
+AI_ML_CONCEPTS.md
+BART_MODEL_INFO.md
+
+# Test files
+test_fixes.py
+test_multimodal.py
+test_new_features.py
+test_setup.py
+
 # Spyder project settings
 .spyderproject
 .spyproject

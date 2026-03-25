@@ -6,3 +6,14 @@ python-dotenv
 beautifulsoup4
 st-copy-to-clipboard
 strip-markdown
+yt-dlp
+requests
+transformers
+torch
+sentencepiece
+opencv-python
+Pillow
+numpy
+pytesseract
+tensorflow
+keras
